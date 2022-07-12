@@ -96,3 +96,16 @@ header nav .left a:hover{
     transition: all 0.3s ease;
 
 }
+section{
+    padding:6rem 0;
+}
+/*--------------------about me----------------*/
+.about-img{
+    height: 450px;
+
+}
+.about h1{
+    margin-bottom: 1rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+}
